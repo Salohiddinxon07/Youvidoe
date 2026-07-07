@@ -467,5 +467,12 @@ gap:18px;
 grid-template-columns:1fr;
 
 }
-
+aside ul li a{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    color:white;
+    text-decoration:none;
+    width:100%;
+}
 }
